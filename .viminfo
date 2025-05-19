@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1747631221,,"wq"
+|2,0,1747631568,,"wq"
 :q
 |2,0,1747631151,,"q"
 
@@ -27,16 +27,31 @@
 # Registers:
 
 # File marks:
-'0  2  227  ~/data.txt
-|4,48,2,227,1747631221,"~/data.txt"
+'0  1  227  ~/server.txt
+|4,48,1,227,1747631568,"~/server.txt"
+'1  2  227  ~/data.txt
+|4,49,2,227,1747631221,"~/data.txt"
 
 # Jumplist (newest first):
+-'  1  227  ~/server.txt
+|4,39,1,227,1747631568,"~/server.txt"
+-'  2  227  ~/data.txt
+|4,39,2,227,1747631221,"~/data.txt"
 -'  2  227  ~/data.txt
 |4,39,2,227,1747631221,"~/data.txt"
 -'  1  0  ~/data.txt
 |4,39,1,0,1747631098,"~/data.txt"
+-'  1  0  ~/data.txt
+|4,39,1,0,1747631098,"~/data.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/server.txt
+	*	1747631566	0
+	"	1	227
+	^	1	230
+	.	1	227
+	+	1	227
 
 > ~/data.txt
 	*	1747631217	0
